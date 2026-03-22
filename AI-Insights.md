@@ -40,10 +40,19 @@ This section showcases AI-generated insights and recommendations based on the Su
 
 ---
 
-### 📸 Screenshots:
+### 📸 Screenshots (Q1: Profit Optimization)
 
-![Profit1](./AI-images/profit1.jpeg)
-![Profit2](./AI-images/profit2.jpeg)
+![Profit1](./AI-imagesprofit1.jpeg)  
+![Profit2](./AI-imagesprofit2.jpeg)  
+![Profit3](./AI-imagesprofit3.jpeg)
+
+---
+
+### 📸 Screenshots (Q2: Category Analysis)
+
+![Category1](./AI-imagescategory1.jpeg)  
+![Category2](./AI-imagescategory2.jpeg)  
+![Category3](./AI-imagescategory3.jpeg)
 
 ---
 
